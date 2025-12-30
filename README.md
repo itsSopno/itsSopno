@@ -38,7 +38,7 @@ Always learning and experimenting with the latest frontend technologies to creat
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-itsSopno-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsSopno)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilhasansopno)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nabil-hasan-sopno)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/itsSopno)
 
 ---
