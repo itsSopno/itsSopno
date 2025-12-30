@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-![Banner](image/banner.png)
+![Banner](banner.png)
 
-## Hi there! 👋 I'm Nabil Hasan Sopno 
+## Hi there! 👋 I'm Nabil Hasan Sopno
 ### Frontend Developer | Web Enthusiast
 
 ---
@@ -38,9 +38,9 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/itsSopno)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilhasansopno)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/itsSopno)
 
 ---
 
