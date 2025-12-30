@@ -45,6 +45,6 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=dark)
+![GitHub Repo Count](https://img.shields.io/github/repos/itsSopno?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/itsSopno?style=for-the-badge)
