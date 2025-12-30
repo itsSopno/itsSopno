@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](image/banner.png)
 # Hi there! 👋 I'm Nabil Hasan Sopno
-### Frontend Developer | Web Enthusiast
+###MERN stack and Frontend Focused
 
 ---
 
