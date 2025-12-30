@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](banner.png)
+![Banner](image/banner.png)
 
 ## Hi there! 👋 I'm Nabil Hasan Sopno
 ### Frontend Developer | Web Enthusiast
