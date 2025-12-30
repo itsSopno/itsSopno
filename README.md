@@ -6,9 +6,9 @@
 ---
 
 ### About Me
-I am a passionate frontend developer who loves creating responsive and interactive web applications.  
-I enjoy turning designs into high-quality code and continuously learning new web technologies.  
-I focus on clean UI, accessibility, and improving user experiences.
+I am a frontend developer passionate about creating smooth, interactive, and high-performance web experiences.  
+I specialize in building responsive web applications with modern JavaScript frameworks and enhancing user experiences with animations and seamless scrolling.  
+Always learning and experimenting with the latest frontend technologies to create visually appealing interfaces.
 
 ---
 
@@ -26,7 +26,8 @@ I focus on clean UI, accessibility, and improving user experiences.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
+![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=gsap&logoColor=white)
+![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Backend / Tools:**  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,7 +50,9 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 
+
 ### :bar_chart: Coding Activity (last month)
 ```txt
-Rust               34 hrs  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   27%
+
 JavaScript         20 hrs  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15%
+JSX                12 hrs  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09%
