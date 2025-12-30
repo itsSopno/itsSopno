@@ -23,17 +23,9 @@
 ---
 
 ### 🔭 Currently Working On:
-- Building responsive web apps with React & NextJS
+- Building responsive web apps with React Js
 - Exploring new frontend tools and frameworks
 - Contributing to open-source projects
 
 ---
 
-### ⚡ GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/yourusername/github-profile-trophy)
