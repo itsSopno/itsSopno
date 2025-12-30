@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](image/banner.png)
 
-## Hi there! 👋 I'm [Your Name]  
+## Hi there! 👋 I'm Nabil Hasan Sopno 
 ### Frontend Developer | Web Enthusiast
 
 ---
@@ -45,6 +45,6 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=dark)
