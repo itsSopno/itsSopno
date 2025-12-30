@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 ![Banner](image/banner.png)
-
-## Hi there! 👋 I'm Nabil Hasan Sopno
+# Hi there! 👋 I'm Nabil Hasan Sopno
 ### Frontend Developer | Web Enthusiast
 
 ---
@@ -21,7 +20,6 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 🛠 Skills
-
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,13 +36,46 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/itsSopno)  
+[![GitHub](https://img.shields.io/badge/GitHub-itsSopno-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsSopno)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilhasansopno)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/itsSopno)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Repo Count](https://img.shields.io/github/repos/itsSopno?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/itsSopno?style=for-the-badge)
+![GitHub Public Repos](https://img.shields.io/github/public-repos/itsSopno?style=for-the-badge)
+
+---
+
+### 🌟 Top Followers
+<table>
+<tr>
+  <td align="center">
+    <a href="https://github.com/wizardforcel">
+      <img src="https://avatars.githubusercontent.com/u/5080126" width="80px;" alt="wizardforcel"/>
+      <br/>wizardforcel
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/EndlessCheng">
+      <img src="https://avatars.githubusercontent.com/u/7086966" width="80px;" alt="EndlessCheng"/>
+      <br/>EndlessCheng
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/gaocegege">
+      <img src="https://avatars.githubusercontent.com/u/5100735" width="80px;" alt="gaocegege"/>
+      <br/>gaocegege
+    </a>
+  </td>
+</tr>
+</table>
+
+---
+
+### :bar_chart: Coding Activity (last month)
+```txt
+Rust               34 hrs  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   27%
+JavaScript         20 hrs  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15%
+Python             14 hrs  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11%
