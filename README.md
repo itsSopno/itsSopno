@@ -14,7 +14,7 @@ Always learning and experimenting with the latest frontend technologies to creat
 
 ### 🚀 Current Activities
 - Exploring **Next.js** and advanced React features  
-- Building a **tourism website** project  
+- Building a **B2B(SaaS) website** project  
 - Contributing to **open-source frontend projects**
 
 ---
