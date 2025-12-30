@@ -45,6 +45,6 @@ I focus on clean UI, accessibility, and improving user experiences.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Repo Count](https://img.shields.io/github/repo-count/itsSopno?style=for-the-badge)
+![GitHub Repo Count](https://img.shields.io/github/repos/itsSopno?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/itsSopno?style=for-the-badge)
