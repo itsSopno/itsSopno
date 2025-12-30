@@ -26,7 +26,7 @@ I focus on clean UI, accessibility, and improving user experiences.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 **Backend / Tools:**  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,34 +48,8 @@ I focus on clean UI, accessibility, and improving user experiences.
 
 ---
 
-### 🌟 Top Followers
-<table>
-<tr>
-  <td align="center">
-    <a href="https://github.com/wizardforcel">
-      <img src="https://avatars.githubusercontent.com/u/5080126" width="80px;" alt="wizardforcel"/>
-      <br/>wizardforcel
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/EndlessCheng">
-      <img src="https://avatars.githubusercontent.com/u/7086966" width="80px;" alt="EndlessCheng"/>
-      <br/>EndlessCheng
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/gaocegege">
-      <img src="https://avatars.githubusercontent.com/u/5100735" width="80px;" alt="gaocegege"/>
-      <br/>gaocegege
-    </a>
-  </td>
-</tr>
-</table>
-
----
 
 ### :bar_chart: Coding Activity (last month)
 ```txt
 Rust               34 hrs  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   27%
 JavaScript         20 hrs  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15%
-Python             14 hrs  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11%
