@@ -1,55 +1,38 @@
-![Banner](image/banner.png)
+<div align="center">
+  <img src="image/banner.png" alt="Nabil's Banner" width="100%" />
 
-# Hi there! 👋 I'm Nabil Hasan Sopno
-### MERN Stack & Frontend Focused
-
----
-
-### 📖 About Me
-I am a **Frontend Developer** passionate about creating smooth, interactive, and high-performance web experiences. I specialize in building responsive web applications with modern JavaScript frameworks and enhancing user experiences with GSAP animations and seamless scrolling (Lenis). 
-
-I'm always learning and experimenting with the latest frontend technologies to create visually stunning and highly functional interfaces.
+  # 🚀 Hi, I'm Nabil Hasan Sopno
+  ### **Frontend Alchemist | MERN Stack Developer**
+  
+  [![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge&color=24292e&logo=github)](https://github.com/itsSopno)
+  [![GitHub Public Repos](https://img.shields.io/github/public-repos/itsSopno?style=for-the-badge&color=24292e&logo=gitbook)](https://github.com/itsSopno)
+</div>
 
 ---
 
-### 🚀 Current Activities
-* 🚀 Exploring **Next.js 14/15** and advanced React patterns.
-* 🏗️ Building a robust **B2B (SaaS) platform**.
-* 🤝 Contributing to **Open-Source** frontend projects.
+### 🖋️ About Me
+I’m a **Frontend Developer** dedicated to bridging the gap between design and reality. I don't just build websites; I craft **interactive experiences**. My focus lies in micro-interactions, fluid scrolling, and high-performance React architectures.
+
+* 🔭 **Currently building:** A high-scale **B2B SaaS Platform**.
+* ⚡ **Obsession:** Masterful animations with **GSAP** and **Lenis**.
+* 📚 **Learning:** Deep-diving into **Next.js 15 Server Components**.
 
 ---
 
-### 🛠 Skills
-**Frontend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=gsap&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logo=javascript&logoColor=white)
+### 🛠️ Tech Stack & Toolbox
 
-**Backend / Tools:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Category | technologies |
+| :--- | :--- |
+| **Core Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) |
+| **Motion/UX** | ![GSAP](https://img.shields.io/badge/-GSAP-88ce02?logo=gsap&logoColor=white) ![Lenis](https://img.shields.io/badge/-Lenis-black?logo=javascript) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend/DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
 
 ---
 
-### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-itsSopno-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsSopno)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabil_Hasan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-hasan-sopno)  
-[![Twitter](https://img.shields.io/badge/Twitter-@itsSopno-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/itsSopno)
-
----
-
-### 📊 GitHub Stats
-![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge)
-![GitHub Public Repos](https://img.shields.io/github/public-repos/itsSopno?style=for-the-badge)
-
----
-
-### 📉 Coding Activity (Last Month)
-```txt
-JavaScript         42 hrs  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   45%
-React (JSX/TSX)    31 hrs  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32%
-CSS/Tailwind       15 hrs  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15%
-Other (Node/Git)   08 hrs  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08%
+### 📊 Performance Metrics (Last 30 Days)
+```text
+JavaScript (Logic)  45 hrs  ██████████████▒░░░░░░░░░  48%
+React (UI/UX)       30 hrs  ██████████▒░░░░░░░░░░░░░  32%
+Motion (GSAP/CSS)   15 hrs  █████▒░░░░░░░░░░░░░░░░░░  15%
+Other (Git/Docs)     5 hrs  █▒░░░░░░░░░░░░░░░░░░░░░░   5%
