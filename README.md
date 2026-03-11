@@ -30,8 +30,8 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/itsSopno/REPO_NAME_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_2&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        <a href="https://github.com/itsSopno/ai-model">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=ai-model&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
         </a>
       </td>
     </tr>
