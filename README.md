@@ -27,7 +27,21 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
 | **Motion/UX** | ![GSAP](https://img.shields.io/badge/-GSAP-88ce02?logo=gsap&logoColor=white) ![Lenis](https://img.shields.io/badge/-Lenis-black?logo=javascript) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | **Backend/DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+---
 
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true" alt="Nabil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" alt="GitHub Streak" width="94%" />
+</div>
+
+---
 ---
 
 ### 📊 Performance Metrics (Last 30 Days)
