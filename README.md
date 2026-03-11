@@ -18,7 +18,39 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
 * 📚 **Learning:** Deep-diving into **Next.js 15 Server Components**.
 
 ---
+---
 
+### 📁 Featured Projects
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/itsSopno/REPO_NAME_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_1&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/itsSopno/REPO_NAME_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_2&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/itsSopno/REPO_NAME_3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_3&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/itsSopno/REPO_NAME_4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_4&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 ### 🛠️ Tech Stack & Toolbox
 
 | Category | technologies |
