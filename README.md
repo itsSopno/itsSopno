@@ -37,8 +37,8 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/itsSopno/REPO_NAME_3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=REPO_NAME_3&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
+        <a href="https://github.com/itsSopno/NEZIN">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NEZIN&repo=REPO_NAME_3&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true&show_owner=false" width="100%" />
         </a>
       </td>
       <td width="50%">
