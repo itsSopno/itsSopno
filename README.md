@@ -2,7 +2,7 @@
   <img src="image/banner.png" alt="Nabil's Banner" width="100%" />
 
   # 🚀 Hi, I'm Nabil Hasan Sopno
-  ### **Frontend Alchemist | MERN Stack Developer**
+  ### **Frontend Developer | MERN Stack Developer**
   
   [![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=for-the-badge&color=24292e&logo=github)](https://github.com/itsSopno)
   [![GitHub Public Repos](https://img.shields.io/github/public-repos/itsSopno?style=for-the-badge&color=24292e&logo=gitbook)](https://github.com/itsSopno)
