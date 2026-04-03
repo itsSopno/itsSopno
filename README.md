@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="image/banner.png" alt="Nabil's Banner" width="100%" />
 
   # 🚀 Hi, I'm Nabil Hasan Sopno
@@ -71,7 +71,60 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" alt="GitHub Streak" width="94%" />
+</div> -->
+
+<div align="center">
+  <img src="image/banner.png" alt="System Header" width="100%" />
+
+  <br />
+
+  <code><strong>SYSTEM_STATUS:</strong> OPERATIONAL</code> | 
+  <code><strong>LOCATION:</strong> BANGLADESH [GMT+6]</code> | 
+  <code><strong>ROLE:</strong> MERN_ENGINEER</code>
 </div>
+
+---
+
+### 🖥️ [INITIALIZING_BIO...]
+> "The bridge between code and art isn't just syntax; it's motion."
+
+I am **Nabil Hasan Sopno**, a Frontend-focused Developer architecting high-performance digital ecosystems. I specialize in turning complex logic into fluid, cinematic user experiences.
+
+* 📡 **CURRENT_MISSION:** Developing **B2B SaaS Infrastructure**.
+* 🌀 **MOTION_STACK:** Orchestrating pixels with **GSAP**, **Framer**, and **Lenis**.
+* 💾 **RESEARCH_LOG:** Transitioning to **Next.js 15 Partial Prerendering (PPR)**.
+
+---
+
+### 📁 NODE_PROJECTS [VERSION_2.0]
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=Asset-Verse&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=ai-model&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=NEZIN&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=Studio-Sinners&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 🛠️ CORE_STATIONS [TECH_DECK]
+
+```yaml
+frontend:
+  engine: [React_19, Next.js_15]
+  styles: [Tailwind, CSS_Modules, BEM]
+  motion: [GSAP, Framer_Motion, Lenis]
+
+backend:
+  runtime: [Node.js, Express]
+  database: [MongoDB, Redis]
+  api: [REST, GraphQL, WebSockets]
+
+toolbox:
+  vcs: [Git, GitHub_Actions]
+  design: [Figma, Spline_3D]
+  testing: [Postman, Jest]
 
 ---
 ---
