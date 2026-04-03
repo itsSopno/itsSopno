@@ -131,14 +131,7 @@ I am a **Frontend Developer** dedicated to bridging the gap between high-end des
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&langs_count=8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsSopno/itsSopno/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsSopno&theme=onedark&no-frame=true&column=4&margin-w=15" width="100%" />
 </div>
 ---
 
