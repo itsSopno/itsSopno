@@ -131,8 +131,15 @@ I am a **Frontend Developer** dedicated to bridging the gap between high-end des
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsSopno&theme=onedark&no-frame=true&column=4&margin-w=15" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true" alt="Nabil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" alt="Top Languages" width="45%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" alt="GitHub Streak" width="94%" />
+</div> -->
 ---
 
 ### 📫 Contact & Collaboration
