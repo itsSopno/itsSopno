@@ -73,65 +73,65 @@ I’m a **Frontend Developer** dedicated to bridging the gap between design and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" alt="GitHub Streak" width="94%" />
 </div> -->
 
+# 🚀 Nabil Hasan Sopno
+### **Frontend Engineer | MERN Stack Developer**
+
+I am a results-driven **Frontend Developer** specializing in building high-performance, scalable web applications. With a strong foundation in the **MERN Stack**, I focus on creating seamless user experiences through modular React architectures and fluid animations.
+
+---
+
+### 🛠️ Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js 15, JavaScript (ES6+), TypeScript |
+| **Styling & Motion** | Tailwind CSS, shadcn/ui, GSAP, Framer Motion, CSS3 |
+| **Backend & DB** | Node.js, Express.js, MongoDB, RESTful APIs |
+| **Toolbox** | Git/GitHub, Postman, Vercel, Figma, Docker |
+
+---
+
+### 📁 Featured Projects
+
+#### 🌌 [Asset-Verse](https://github.com/itsSopno/Asset-Verse)
+*A high-scale B2B SaaS platform for company asset management.*
+- **Tech:** Next.js, Node.js, MongoDB, Tailwind.
+- **Key Feature:** Implemented Role-Based Access Control (RBAC) and real-time hardware tracking.
+
+#### 🧠 [AI Model Inventory](https://github.com/itsSopno/ai-model)
+*Full-stack platform to manage and showcase Machine Learning model metadata.*
+- **Tech:** MERN Stack, Redux Toolkit, shadcn/ui.
+- **Key Feature:** Advanced filtering system and automated metadata validation.
+
+#### 👗 [NEZIN Fashion](https://github.com/itsSopno/NEZIN)
+*An immersive e-commerce digital experience.*
+- **Tech:** React, GSAP, Stripe Integration.
+- **Key Feature:** Cinematic UI with smooth-scroll and complex micro-interactions.
+
+---
+
+### 📊 GitHub Activity & Insights
+
 <div align="center">
-  <img src="image/banner.png" alt="System Header" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" width="42%" />
+</div>
 
-  <br />
+<br/>
 
-  <code><strong>SYSTEM_STATUS:</strong> OPERATIONAL</code> | 
-  <code><strong>LOCATION:</strong> BANGLADESH [GMT+6]</code> | 
-  <code><strong>ROLE:</strong> MERN_ENGINEER</code>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" width="94%" />
 </div>
 
 ---
 
-### 🖥️ [INITIALIZING_BIO...]
-> "The bridge between code and art isn't just syntax; it's motion."
+### 📫 Let's Connect
 
-I am **Nabil Hasan Sopno**, a Frontend-focused Developer architecting high-performance digital ecosystems. I specialize in turning complex logic into fluid, cinematic user experiences.
-
-* 📡 **CURRENT_MISSION:** Developing **B2B SaaS Infrastructure**.
-* 🌀 **MOTION_STACK:** Orchestrating pixels with **GSAP**, **Framer**, and **Lenis**.
-* 💾 **RESEARCH_LOG:** Transitioning to **Next.js 15 Partial Prerendering (PPR)**.
+- **Email:** [nabil.hasan.contact@example.com]
+- **LinkedIn:** [linkedin.com/in/itsSopno](https://linkedin.com/in/itsSopno)
+- **Portfolio:** [your-portfolio-link.com]
 
 ---
-
-### 📁 NODE_PROJECTS [VERSION_2.0]
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=Asset-Verse&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=ai-model&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=NEZIN&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsSopno&repo=Studio-Sinners&theme=dark&bg_color=00000000&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&hide_border=true" width="48%" />
+  <sub>Built with ❤️ by Nabil Hasan Sopno</sub>
 </div>
-
----
-
-### 🛠️ CORE_STATIONS [TECH_DECK]
-
-```yaml
-frontend:
-  engine: [React_19, Next.js_15]
-  styles: [Tailwind, CSS_Modules, BEM]
-  motion: [GSAP, Framer_Motion, Lenis]
-
-backend:
-  runtime: [Node.js, Express]
-  database: [MongoDB, Redis]
-  api: [REST, GraphQL, WebSockets]
-
-toolbox:
-  vcs: [Git, GitHub_Actions]
-  design: [Figma, Spline_3D]
-  testing: [Postman, Jest]
-
----
----
-
-### 📊 Performance Metrics (Last 30 Days)
-```text
-JavaScript (Logic)  45 hrs  ██████████████▒░░░░░░░░░  48%
-React (UI/UX)       30 hrs  ██████████▒░░░░░░░░░░░░░  32%
-Motion (GSAP/CSS)   15 hrs  █████▒░░░░░░░░░░░░░░░░░░  15%
-Other (Git/Docs)     5 hrs  █▒░░░░░░░░░░░░░░░░░░░░░░   5%
