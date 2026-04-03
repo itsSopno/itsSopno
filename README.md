@@ -127,16 +127,8 @@ I am a **Frontend Developer** dedicated to bridging the gap between high-end des
 ### 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsSopno&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSopno&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsSopno&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsSopno&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=E34F26&currStreakLabel=0077B5" width="94%" />
-</div>
-
 ---
 
 ### 📫 Contact & Collaboration
