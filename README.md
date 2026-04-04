@@ -28,7 +28,7 @@ I am a **Frontend Developer** dedicated to bridging the gap between high-end des
 | **Frontend** | React.js, Next.js 15, JavaScript (ES6+), TypeScript |
 | **Motion/UI** | GSAP, Lenis Smooth Scroll, Framer Motion, Tailwind CSS, shadcn/ui |
 | **Backend** | Node.js, Express.js, MongoDB, RESTful APIs |
-| **Tools** | Git, Postman, Vercel, Figma, Docker |
+| **Tools** | Git, Postman, Vercel, Figma, Antigravity |
 
 ---
 
