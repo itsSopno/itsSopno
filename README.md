@@ -32,22 +32,6 @@ I am a **Frontend Developer** dedicated to bridging the gap between high-end des
 
 ---
 
-### 📁 Featured Projects
-
-#### 🌌 [Asset-Verse](https://github.com/itsSopno/Asset-Verse)
-*A robust B2B SaaS platform for enterprise asset management.*
-- **Tech:** Next.js, Node.js, MongoDB, Tailwind.
-- **Impact:** Built a complex RBAC system and real-time hardware tracking module.
-
-#### 🧠 [AI Model Inventory](https://github.com/itsSopno/ai-model)
-*Full-stack platform to manage machine learning model metadata.*
-- **Tech:** MERN Stack, Redux Toolkit, shadcn/ui.
-- **Impact:** Developed an advanced multi-criteria filtering and management system.
-
-#### 👗 [NEZIN Fashion](https://github.com/itsSopno/NEZIN)
-*An immersive e-commerce digital experience.*
-- **Tech:** React, GSAP, Stripe.
-- **Impact:** Integrated high-end motion design with secure payment gateways.
 
 ---
 
