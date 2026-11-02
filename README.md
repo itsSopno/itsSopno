@@ -2,7 +2,7 @@
   <img src="image/banner.png" alt="Nabil Hasan Banner" width="100%" />
 
   # Nabil Hasan Sopno
-  ### Senior Frontend Engineer | MERN Stack Developer
+  ###  Frontend Engineer | MERN Stack Developer
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-hasan-sopno)
   [![GitHub Followers](https://img.shields.io/github/followers/itsSopno?style=flat-square&color=24292e&logo=github)](https://github.com/itsSopno)
